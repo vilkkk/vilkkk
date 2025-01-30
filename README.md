@@ -28,6 +28,6 @@
 - Caso tenha alguma sugestão, feedback ou uma ideia, também estou aberto a conversar.
 
 ## Como Entrar em Contato
-<a href="https://www.linkedin.com/in/vilker-fernandes-5875a12bb/" target="_blank" title="Linkedin Vilker Fernandes"><img src="https://img.shields.io/badge/- Vilker Fernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vilker-fernandes-5875a12bb/" alt="Linkedin Matheus Pereira"/></a> [![Gmail vilker fernandes](https://img.shields.io/badge/-vilkerfernandes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vilkerfernandes@gmail.com)(mailto:vilkerfernandes@gmail.com"Gmail Vilker Fernandes")
+<a href="https://www.linkedin.com/in/vilker-fernandes-5875a12bb/" target="_blank" title="Linkedin Vilker Fernandes"><img src="https://img.shields.io/badge/- Vilker Fernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vilker-fernandes-5875a12bb/" alt="Linkedin Vilker Fernandes"/></a> [![Gmail Vilker Fernandes](https://img.shields.io/badge/-vilkerfernandes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vilkerfernandes@gmail.com)](mailto:vilkerfernandes@gmail.com "Gmail Vilker Fernandes")
 
 ##### Para mais informações acesse meu portfólio clicando [aqui]("aqui").
